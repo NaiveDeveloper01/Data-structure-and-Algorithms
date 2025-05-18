@@ -1,0 +1,1 @@
+This repository contains chapter-wise implementations of Data Structures and Algorithms (DSA). It’s structured to help learners and developers find clean, modular, and well-commented algorithm implementations grouped by topic
